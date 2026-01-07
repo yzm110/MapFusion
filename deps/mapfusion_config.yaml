@@ -1,4 +1,0 @@
-p_memory_route_id : 3 
-p_memory_file_platform : 0 # 1: Linux, 2: QNX
-p_trajectory_point_gap : 250  # 250cm
-p_max_packet_size : 100   #100352
